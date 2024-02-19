@@ -9,10 +9,10 @@
       "minVersion": "25.4.0"
     }
   ],
-  "manifestVersion": 5,
   "requiredPermissions": {
-      "localFileSystem": "fullAccess"
-  },
+    "localFileSystem": "fullAccess"
+},
+  "manifestVersion": 5,
   "entrypoints": [
     {
       "type": "command",
